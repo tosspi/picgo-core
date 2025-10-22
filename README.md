@@ -1,0 +1,2 @@
+# picgo-core
+picgo
